@@ -1,11 +1,17 @@
 # Car App
 
-Aplicación web simple con **Streamlit** para explorar el dataset `vehicles_us.csv`.
+Aplicación web con **Streamlit** para explorar el dataset de anuncios de vehículos (`vehicles_us.csv`).
 
 Incluye:
-
 - Un **histograma** de la columna `odometer`.
-- Un **gráfico de dispersión** (odometer vs price).
-- Controles (botones o checkboxes) para mostrar los gráficos.
+- Un **gráfico de dispersión** (`odometer` vs `price`).
+- Controles interactivos para visualizar y filtrar datos.
+- Despliegue online accesible para cualquier usuario.
 
-## Estructura del proyecto
+---
+
+## 🌐 Demo online
+La aplicación está desplegada en Render y se puede usar aquí:  
+[Car App en Render](https://car-app-gt30.onrender.com)
+
+---
